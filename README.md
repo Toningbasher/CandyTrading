@@ -1,0 +1,2 @@
+# CandyTrading
+Depaul Hackathon
